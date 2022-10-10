@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Westsi
+![Octocat](/octocat.png)
 - 👀 I’m interested in ML and Minecraft. 
 - 🌱 I’m currently (re)learning Java and Go. 
 - 💞️ I’m looking to collaborate on ...
