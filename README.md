@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Westsi
 ![Octocat](/octocat-1665384915040.png)
 - 👀 I’m interested in web dev, ML and Minecraft. 
-- 🌱 I’m currently (re)learning Java and Go. 
+- 🌱 I’m currently learning Rust and Elixir. 
 - 💞️ I’m looking to collaborate on cool (preferably front end) projects. 
+- 🧠 I can code in Python, JS, Java and some Rust, Elixir and C.
 - 📫 How to reach me:
     - Email: westsi@protonmail.com
-    - Website: <https://westsi.pages.dev> WIP
+    - Website: <https://westsi.pages.dev>
     - Discord: 1Westsi#0412
     
 
