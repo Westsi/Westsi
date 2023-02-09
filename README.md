@@ -22,7 +22,7 @@
     <li>👀 I’m interested in web dev, backend coding, and Minecraft.</li>
     <li>📫 How to reach me:
         <ul>
-            <li>Email: <a href="mailto:westsi@protonmail.com" target="_blank">westsi@protonmail.com</a></li>
+            <li>Email: westsi@protonmail.com</li>
             <li>Website: <a href="https://westsi.pages.dev" target="_blank">westsi.pages.dev</a></li>
             <li>Discord: 1Westsi#0412</li>
     </li>
