@@ -31,6 +31,8 @@
 
 [![@westsi's Holopin board](https://holopin.io/api/user/board?user=westsi)](https://holopin.io/@westsi)
 ![Visitor Count](https://profile-counter.glitch.me/westsi/count.svg)
+<br />
+[![trophy](https://github-profile-trophy.vercel.app/?username=westsi&theme=nord&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Westsi/Westsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
