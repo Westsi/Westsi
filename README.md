@@ -19,7 +19,7 @@
     <li>🧠 I can code in Python, JS, Java, Golang, HTML, CSS and C.</li>
     <li>🔥 I have experience with Flask, React, SQLite, Svelte, Vite, Gin Gonic for Go, gorm, and video editing using Filmora Wondershare.</li>
     <li>💚 I have used and still use Git, Github, Gradle and Maven, IntelliJ Idea, Postman, replit, VSCode and numerous command lines.</li>
-    <li>👀 I’m interested in web dev, backend coding, and Minecraft.</li>
+    <li>👀 I’m interested in full-stack development, OS development, and Programming Language Development</li>
     <li>📫 How to reach me:
         <ul>
             <li>Email: westsi@protonmail.com</li>
