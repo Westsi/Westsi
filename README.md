@@ -34,6 +34,7 @@
 <br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=westsi&theme=nord&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 ![Stats](https://readme-stats-westsi.vercel.app/api?username=westsi&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=blue-green)
+![Stats](https://readme-stats-westsi.vercel.app/api/top-langs/?username=westsi&langs_count=11&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=HTML)
 
 <!---
 Westsi/Westsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
