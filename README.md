@@ -24,7 +24,7 @@
         <ul>
             <li>Email: westsi@protonmail.com</li>
             <li>Website: <a href="https://westsi.pages.dev" target="_blank">westsi.pages.dev</a></li>
-            <li>Discord: 1Westsi#0412</li>
+            <li>Discord: westsi</li>
     </li>
 </ul>
     
